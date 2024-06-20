@@ -1,0 +1,43 @@
+cff-version: 1.0.1
+message: random message
+title: Gem of Saoni
+authors: 
+  - family-names: Petronilho Gonçalves
+    given-names: Dã
+  - family-names: Martins Freitas Wanderley
+    given-names: Davi
+  - family-names: de Oliveira
+    given-names: Fellipe Gabriel
+  - family-names: de Paula Gomes
+    given-names: Jerson Vitor
+  - family-names: Pereira Vilefort
+    given-names: Rafael
+  - family-names: da Cruz Fonseca
+    given-names: Raul
+  - family-names: Ferrer de Queiroz Eloy
+    given-names: Vinicius
+  - family-names: Freitas Oliveira
+    given-names: Wallace
+  - name-suffix: Professor
+    affiliation: Puc Minas
+    family-names: Neri Nobre,
+    given-names: Cristiane
+  - name-suffix: Professor
+    affiliation: Puc Minas
+    family-names: Ribeiro da Mota,
+    given-names: Rosilane
+  - name-suffix: Professor
+    affiliation: Puc Minas
+    family-names: Martins Mol,
+    given-names: Arthur
+keywords:
+  - Jogo
+  - Tower defense
+  - A*
+  - Inteligência Artificial
+  - Grafos
+repository-code: https://github.com/davimfw/puc-ti4-gem-of-saoni
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-06-20
+  
